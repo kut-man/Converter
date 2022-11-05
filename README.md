@@ -1,6 +1,6 @@
 # Converter
 
-Final project
+Final exam project made for educational purposes only.
 
 ## Made By Kutman Eshenkulov and Nurak Karabekov
 
